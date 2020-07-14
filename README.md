@@ -38,7 +38,7 @@
 
 <tr>
 <td align="center" width="20%">
-<span><b><center>Visual Studio C# & C++</center></b></span> 
+<span><b><center>Visual Studio C#</center></b></span> 
 <img height=65px src="https://financesonline.com/uploads/2019/08/Microsoft-Visual-Studio-logo1.png"> 
 </td>
 
