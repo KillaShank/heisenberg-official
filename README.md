@@ -57,13 +57,13 @@
 
 <tr>
 <td align="center" width="20%">
-<span><b><center>MongoDB</center></b></span> 
-<img height=65px src="https://cdn.freebiesupply.com/logos/large/2x/php-1-logo-png-transparent.png"> 
+<span><b><center>PHP</center></b></span> 
+<img height=55px src="https://cdn.freebiesupply.com/logos/large/2x/php-1-logo-png-transparent.png"> 
 </td>
 
 <td align="center" width="20%">
  <span><b><center>SQL</center></b></span> 
-<img height=65px src="https://www.macworld.co.uk/cmsdata/features/3638150/setup_learn_sql_mac_thumb1200_4-3.jpg"> 
+<img height=70px src="https://www.macworld.co.uk/cmsdata/features/3638150/setup_learn_sql_mac_thumb1200_4-3.jpg"> 
 </td>
 
 <td align="center" width="20%">
