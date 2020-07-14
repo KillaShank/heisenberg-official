@@ -107,7 +107,6 @@
 ## :mailbox_with_mail: Activities 
 
 ### :tv: Webinars
-
 - [Introduction To Azure Cloud And Virtual Machines](https://youtu.be/RHS85A63KIE)
 
-If you like the Repository give it a :star: and also follow me on GitHub, And lets together make this world a better place.
+If you like the Repository give it a :star: and also follow me on GitHub, And lets together make this world a better place 🗽
