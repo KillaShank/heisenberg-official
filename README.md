@@ -7,7 +7,7 @@
 
 * I have experience in the field of Linux Kernel Development, DevSecOps, Penetration Testing, and Linux System Administration.
 
-* I would love to contribute to Open-Source Projects.
+* I would love to contribute to Open-Source Community.
 
 * :magnet: You can checkout my projects from here :fire: - [![projects](https://forthebadge.com/images/badges/check-it-out.svg)](https://github.com/DiptoChakrabarty/DiptoChakrabarty/blob/master/Projects.md)
 
