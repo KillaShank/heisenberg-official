@@ -58,7 +58,7 @@
 <tr>
 <td align="center" width="20%">
 <span><b><center>Git</center></b></span> 
-<img height=65px src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png"> 
+<img height=60px src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png"> 
 </td>
 
 <td align="center" width="20%">
