@@ -96,7 +96,7 @@
 
  
 ![Vineet Kumar Github Stats](https://github-readme-stats.vercel.app/api?username=heisenberg-official&show_icons=true)
-## My Certifications :scroll:
+## :scroll: My Certifications
 
 - [Microsoft Student Partner - Alpha 2](https://studentpartners.microsoft.com/en-us/Account/DisplayMSPCertificate?url=3d1e094e3a344fb78220cd3567500998)
 - [Parallelism on Intel Architecture](https://www.coursera.org/account/accomplishments/verify/W6L5AWMYBXJB)
