@@ -29,8 +29,8 @@
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Nginx</center></b></span> 
-<img height=65px src="http://www.myiconfinder.com/uploads/iconsets/256-256-cf2ed3956a3a1484f83ed20d7e987f21.png"> 
+<span><b><center>Apache</center></b></span> 
+<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Apache_Software_Foundation_Logo_%282016%29.svg/640px-Apache_Software_Foundation_Logo_%282016%29.svg.png"> 
 </td>
 </tr>
 
