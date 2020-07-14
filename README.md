@@ -38,7 +38,7 @@
 
 <tr>
 <td align="center" width="20%">
-<span><b><center>Visual Studio</center></b></span> 
+<span><b><center>Visual Studio C# & C++</center></b></span> 
 <img height=65px src="https://financesonline.com/uploads/2019/08/Microsoft-Visual-Studio-logo1.png"> 
 </td>
 
@@ -47,13 +47,13 @@
 <img height=65px src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png"> 
 </td>
 
-
-
 <td align="center" width="20%">
 <span><b><center>Python</center></b></span> 
 <img height=65px src="https://www.python.org/static/community_logos/python-logo.png"> 
 </td>
 </tr>
+
+
 
 <tr>
 <td align="center" width="20%">
@@ -71,6 +71,8 @@
 <img height=65px src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png"> 
 </td>
 </tr>
+
+
 
 <tr>
 <td align="center" width="20%">
