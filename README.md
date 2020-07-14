@@ -96,7 +96,7 @@
 
  
 ![Vineet Kumar Github Stats](https://github-readme-stats.vercel.app/api?username=heisenberg-official&show_icons=true)
-## My Certifications :arrow_down:
+## My Certifications :scroll:
 
 - [Microsoft Student Partner - Alpha 2](https://studentpartners.microsoft.com/en-us/Account/DisplayMSPCertificate?url=3d1e094e3a344fb78220cd3567500998)
 - [Parallelism on Intel Architecture](https://www.coursera.org/account/accomplishments/verify/W6L5AWMYBXJB)
@@ -104,9 +104,9 @@
 - [Cybersecurity and Its Ten Domains](https://www.coursera.org/account/accomplishments/verify/PHQKZPG9GRDN) 
 
 
-## My Activities :mailbox_with_mail:
+## :mailbox_with_mail: My Activities 
 
-### Webinars :tv:
+### :tv: Webinars
 
 - [Introduction To Azure Cloud And Virtual Machines](https://youtu.be/RHS85A63KIE)
 
