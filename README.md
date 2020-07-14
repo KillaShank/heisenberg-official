@@ -5,7 +5,7 @@
 
 * I am a Microsoft Student Partner and Tech Head at TAG-CLUB VIT Vellore. :sparkles:.
 
-* I have done multiple projects ranging from the field of Devops , Backend to Cloud Computing and Automation :file_cabinet: .
+* I have done multiple projects in the field of Linux Kernel, DevSecOps, Reverse Engineering, Ethical Hacking, and Linux System Administration. :file_cabinet: .
 
 * I am currently brushing up my skills and plan to learn Golang and Terraform .
 
