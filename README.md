@@ -49,7 +49,7 @@
 
 <td align="center" width="20%">
 <span><b><center>x86 x64 Arch</center></b></span> 
-<img height=65px src="https://scontent-sin6-2.cdninstagram.com/v/t51.2885-15/e35/79031866_824103338068064_3075921091771468688_n.jpg?_nc_ht=scontent-sin6-2.cdninstagram.com&_nc_cat=108&_nc_ohc=AFegxy8CSQ8AX8E-kXp&oh=10df4009d7a8b35a74b3ad52f5b241ee&oe=5F13C745"> 
+<img height=65px src="https://hackr.io/tutorials/assembly-language/logo-assembly-language.svg?ver=1587718148"> 
 </td>
 </tr>
 
