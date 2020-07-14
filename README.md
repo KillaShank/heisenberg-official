@@ -98,9 +98,10 @@
 ![Vineet Kumar Github Stats](https://github-readme-stats.vercel.app/api?username=heisenberg-official&show_icons=true)
 ## My Certifications :arrow_down:
 
+- [Microsoft Student Partner Alpha 2](https://studentpartners.microsoft.com/en-us/Account/DisplayMSPCertificate?url=3d1e094e3a344fb78220cd3567500998)
 - [Parallelism on Intel Architecture](https://www.coursera.org/account/accomplishments/verify/W6L5AWMYBXJB)
-- [Red Hat Certified Specialist in Ansible Automation](https://media-exp1.licdn.com/dms/image/C4D2DAQHoFhvsfOPa5g/profile-treasury-image-shrink_1280_1280/0?e=1594677600&v=beta&t=EZa7le_vjNz5nGFIuOKmJk-WuGnPjOQpWz615lcUniM)
-- [Red Hat Certified  Engineer](https://media-exp1.licdn.com/dms/image/C4D2DAQGL_J8Rvg88cg/profile-treasury-image-shrink_480_480/0?e=1594677600&v=beta&t=ns1Pf3Eh9CDkLzcBDMz-LDWg9ArVMBOffdwSKhXzKzs) 
+- [Google Cloud Platform Fundamentals: Core Infrastructure](https://www.coursera.org/account/accomplishments/records/3M6GK49TTDUR) 
+- [Cybersecurity and Its Ten Domains](https://www.coursera.org/account/accomplishments/verify/PHQKZPG9GRDN) 
 
 
 ## My Activities :mailbox_with_mail:
