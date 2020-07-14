@@ -36,18 +36,18 @@
 
 <tr>
 <td align="center" width="20%">
-<span><b><center>Flask</center></b></span> 
-<img height=65px src="https://www.pngitem.com/pimgs/m/159-1595977_flask-python-logo-hd-png-download.png"> 
+<span><b><center>Metasploit</center></b></span> 
+<img height=65px src="https://www.cybervie.com/wp-content/uploads/2018/12/metasploit_logo-300x300.png"> 
+</td>
+
+<td align="center" width="20%">
+ <span><b><center>SQL</center></b></span> 
+<img height=65px src="https://image.slidesharecdn.com/umpoucosobresql-190120132443/95/um-pouco-sobre-sql-1-638.jpg"> 
 </td>
 
 <td align="center" width="20%">
 <span><b><center>Git</center></b></span> 
 <img height=65px src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png"> 
-</td>
-
-<td align="center" width="20%">
-<span><b><center>Jenkins</center></b></span> 
-<img height=65px src="https://www.devteam.space/wp-content/uploads/2018/03/jenkins.jpg"> 
 </td>
 </tr>
 
