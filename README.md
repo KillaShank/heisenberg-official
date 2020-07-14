@@ -5,11 +5,9 @@
 
 * I am a Microsoft Student Partner and Tech Head at TAG-CLUB VIT Vellore. :sparkles:.
 
-* I have done multiple projects in the field of Linux Kernel, DevSecOps, Reverse Engineering, Ethical Hacking, and Linux System Administration. :file_cabinet: .
+* I have experience in the field of Linux Kernel Development, Reverse Engineering, Penetration Testing, and Linux System Administration. :file_cabinet: .
 
-* I am currently brushing up my skills and plan to learn Golang and Terraform .
-
-* I am willing to work on free-lance projects and love to  contribute to open source projects :bulb:
+* I would love to contribute to Open-Source Projects. :bulb:
 
 * :magnet: You can checkout my projects from here :fire: - [![projects](https://forthebadge.com/images/badges/check-it-out.svg)](https://github.com/DiptoChakrabarty/DiptoChakrabarty/blob/master/Projects.md)
 
