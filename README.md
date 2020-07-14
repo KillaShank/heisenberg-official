@@ -44,7 +44,7 @@
 
 <td align="center" width="20%">
 <span><b><center>Python</center></b></span> 
-<img height=65px src="http://www.pngall.com/wp-content/uploads/2016/05/Python-Logo-PNG.png"> 
+<img height=45px src="http://www.pngall.com/wp-content/uploads/2016/05/Python-Logo-PNG.png"> 
 </td>
 
 <td align="center" width="20%">
