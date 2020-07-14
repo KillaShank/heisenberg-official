@@ -76,12 +76,12 @@
 <tr>
 <td align="center" width="20%">
  <span><b><center>Metasploit</center></b></span> 
-<img height=65px src="https://ih1.redbubble.net/image.452180662.4771/sticker,375x360-bg,ffffff.u1.png"> 
+<img height=65px src="https://png2.cleanpng.com/sh/3b461b53f5be748d2b0fa8c2c6de800a/L0KzQYm3U8I5N5x4j5H0aYP2gLBuTgdpcaVqRdpqdD3wdcXokCBtd5p5ReJ7b3roc8W0hghxdJDujJ9sb33zhcXskr10bZR6Rdh7YX3oh7F5i702aZNoTNg5NUfoSbe8Ur46PWgAUaIDNUG4QoO5WcA1O2g6SaoCLoDxd1==/kisspng-white-hat-metasploit-project-exploit-computer-secu-framework-5abc4f057e9f52.9579908515222904375187.png"> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Nginx</center></b></span> 
-<img height=65px src="http://www.myiconfinder.com/uploads/iconsets/256-256-cf2ed3956a3a1484f83ed20d7e987f21.png"> 
+<span><b><center>BurpSuite</center></b></span> 
+<img height=65px src="https://www.kali.org/wp-content/uploads/revslider/last/burpsuite.png"> 
 </td>
 
 <td align="center" width="20%">
