@@ -98,9 +98,9 @@
 ![Vineet Kumar Github Stats](https://github-readme-stats.vercel.app/api?username=heisenberg-official&show_icons=true)
 ## My Certifications :arrow_down:
 
-- [Microsoft Student Partner Alpha 2](https://studentpartners.microsoft.com/en-us/Account/DisplayMSPCertificate?url=3d1e094e3a344fb78220cd3567500998)
+- [Microsoft Student Partner - Alpha 2](https://studentpartners.microsoft.com/en-us/Account/DisplayMSPCertificate?url=3d1e094e3a344fb78220cd3567500998)
 - [Parallelism on Intel Architecture](https://www.coursera.org/account/accomplishments/verify/W6L5AWMYBXJB)
-- [Google Cloud Platform Fundamentals: Core Infrastructure](https://www.coursera.org/account/accomplishments/records/3M6GK49TTDUR) 
+- [Google Cloud Core Infrastructure](https://www.coursera.org/account/accomplishments/records/3M6GK49TTDUR) 
 - [Cybersecurity and Its Ten Domains](https://www.coursera.org/account/accomplishments/verify/PHQKZPG9GRDN) 
 
 
