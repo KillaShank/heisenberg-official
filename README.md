@@ -12,15 +12,15 @@
 * Connect with me on LinkeDin [LinkedIn Profile](https://www.linkedin.com/in/-vineet/)
 
 
-## Tech Stack :computer:
+### Software And Services Worked On :computer:
 
 <br>
 <table>
 <tbody>
  <tr>
 <td align="center" width="20%">
-<span><b><center>Ansible</center></b></span> 
-<img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSEbbMBYx3DSbnzVxofkkvdV83FRA-lma9Y_Q&usqp=CAU"> 
+<span><b><center>Linux System Administration</center></b></span> 
+<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png"> 
 </td>
 
 <td align="center" width="20%">
@@ -29,8 +29,8 @@
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Docker</center></b></span> 
-<img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTApU_6Eg4oWx3NMhLifHmNEkxjeMxfd3oGUA&usqp=CAU"> 
+<span><b><center>Nginx</center></b></span> 
+<img height=65px src="http://www.myiconfinder.com/uploads/iconsets/256-256-cf2ed3956a3a1484f83ed20d7e987f21.png"> 
 </td>
 </tr>
 
