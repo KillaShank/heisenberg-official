@@ -34,22 +34,7 @@
 </td>
 </tr>
 
-<tr>
-<td align="center" width="20%">
-<span><b><center>Metasploit</center></b></span> 
-<img height=65px src="https://www.cybervie.com/wp-content/uploads/2018/12/metasploit_logo-300x300.png"> 
-</td>
 
-<td align="center" width="20%">
- <span><b><center>SQL</center></b></span> 
-<img height=65px src="https://image.slidesharecdn.com/umpoucosobresql-190120132443/95/um-pouco-sobre-sql-1-638.jpg"> 
-</td>
-
-<td align="center" width="20%">
-<span><b><center>Git</center></b></span> 
-<img height=65px src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png"> 
-</td>
-</tr>
 
 <tr>
 <td align="center" width="20%">
@@ -67,6 +52,23 @@
 <td align="center" width="20%">
 <span><b><center>Python</center></b></span> 
 <img height=65px src="https://www.python.org/static/community_logos/python-logo.png"> 
+</td>
+</tr>
+
+<tr>
+<td align="center" width="20%">
+<span><b><center>Metasploit</center></b></span> 
+<img height=65px src="https://www.cybervie.com/wp-content/uploads/2018/12/metasploit_logo-300x300.png"> 
+</td>
+
+<td align="center" width="20%">
+ <span><b><center>SQL</center></b></span> 
+<img height=65px src="https://image.slidesharecdn.com/umpoucosobresql-190120132443/95/um-pouco-sobre-sql-1-638.jpg"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>Git</center></b></span> 
+<img height=65px src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png"> 
 </td>
 </tr>
 
