@@ -9,7 +9,7 @@
 
 * I would love to contribute to Open-Source Community.
 
-* Connect with me on LinkeDin :fireworks: [LinkeDin Profile](https://www.linkedin.com/in/dipto-chakrabarty/) :sparkler:
+* Connect with me on LinkeDin [LinkedIn Profile](https://www.linkedin.com/in/-vineet/)
 
 
 ## Tech Stack :computer:
