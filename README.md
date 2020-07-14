@@ -1,9 +1,9 @@
 <h1 align="center"> ❄️ Welcome </h1>
 
 
-* I am [Vineet Kumar](https://www.linkedin.com/in/-vineet/) :blush: . A third-year student of Vellore Institute Of Technology in Computer Science with specialization in Information Security :satellite:
+* I am [Vineet Kumar](https://www.linkedin.com/in/-vineet/) :blush: . A third-year student of Vellore Institute Of Technology in Computer Science and Engineering. :satellite:
 
-* I am a Microsoft Student Partner and Projects Head at TAG-CLUB VIT Vellore :sparkles:.
+* I am a Microsoft Student Partner and Tech Head at TAG-CLUB VIT Vellore. :sparkles:.
 
 * I have done multiple projects ranging from the field of Devops , Backend to Cloud Computing and Automation :file_cabinet: .
 
