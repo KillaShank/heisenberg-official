@@ -57,18 +57,17 @@
 
 <tr>
 <td align="center" width="20%">
-<span><b><center>PHP</center></b></span> 
-<img height=55px src="https://cdn.freebiesupply.com/logos/large/2x/php-1-logo-png-transparent.png"> 
+<span><b><center>Git</center></b></span> 
+<img height=65px src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png"> 
 </td>
 
 <td align="center" width="20%">
  <span><b><center>SQL</center></b></span> 
 <img height=70px src="https://www.macworld.co.uk/cmsdata/features/3638150/setup_learn_sql_mac_thumb1200_4-3.jpg"> 
 </td>
-
 <td align="center" width="20%">
-<span><b><center>Git</center></b></span> 
-<img height=65px src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png"> 
+<span><b><center>PHP</center></b></span> 
+<img height=55px src="https://cdn.freebiesupply.com/logos/large/2x/php-1-logo-png-transparent.png"> 
 </td>
 </tr>
 
