@@ -37,7 +37,7 @@
 
 
 <tr>
-<td align="center" width="20%">
+<td align="center" width="10%">
 <span><b><center>Objective C & C++</center></b></span> 
 <img height=65px src="https://financesonline.com/uploads/2019/08/Microsoft-Visual-Studio-logo1.png"> 
 </td>
