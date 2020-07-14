@@ -1,7 +1,7 @@
 <h1 align="center"> ❄️ Welcome </h1>
 
 
-* I am [Vineet Kumar](https://www.linkedin.com/in/-vineet/) :blush:	 . Currently I am a third year student from VIT Vellore in Computer Science with specialization in Information Security :satellite:
+* I am [Vineet Kumar](https://www.linkedin.com/in/-vineet/) :blush: . A third-year student of Vellore Institute Of Technology in Computer Science with specialization in Information Security :satellite:
 
 * I am a Microsoft Student Partner and Projects Head at TAG-CLUB VIT Vellore :sparkles:.
 
