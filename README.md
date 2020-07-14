@@ -57,8 +57,8 @@
 
 <tr>
 <td align="center" width="20%">
-<span><b><center>Metasploit</center></b></span> 
-<img height=65px src="https://ih1.redbubble.net/image.452180662.4771/sticker,375x360-bg,ffffff.u1.png"> 
+<span><b><center>MongoDB</center></b></span> 
+<img height=65px src="https://cdn.freebiesupply.com/logos/large/2x/php-1-logo-png-transparent.png"> 
 </td>
 
 <td align="center" width="20%">
@@ -76,8 +76,8 @@
 
 <tr>
 <td align="center" width="20%">
-<span><b><center>MongoDB</center></b></span> 
-<img height=65px src="https://www.logolynx.com/images/logolynx/d5/d50b83324fb4fbab14cdfaf47409115b.jpeg"> 
+ <span><b><center>Metasploit</center></b></span> 
+<img height=65px src="https://ih1.redbubble.net/image.452180662.4771/sticker,375x360-bg,ffffff.u1.png"> 
 </td>
 
 <td align="center" width="20%">
