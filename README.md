@@ -58,12 +58,12 @@
 <tr>
 <td align="center" width="20%">
 <span><b><center>Metasploit</center></b></span> 
-<img height=65px src="https://www.cybervie.com/wp-content/uploads/2018/12/metasploit_logo-300x300.png"> 
+<img height=65px src="https://ih1.redbubble.net/image.452180662.4771/sticker,375x360-bg,ffffff.u1.png"> 
 </td>
 
 <td align="center" width="20%">
  <span><b><center>SQL</center></b></span> 
-<img height=65px src="https://image.slidesharecdn.com/umpoucosobresql-190120132443/95/um-pouco-sobre-sql-1-638.jpg"> 
+<img height=65px src="https://www.macworld.co.uk/cmsdata/features/3638150/setup_learn_sql_mac_thumb1200_4-3.jpg"> 
 </td>
 
 <td align="center" width="20%">
