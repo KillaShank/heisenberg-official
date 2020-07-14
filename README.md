@@ -1,13 +1,13 @@
 <h1 align="center"> ❄️ Welcome </h1>
 
 
-* I am [Vineet Kumar](https://www.linkedin.com/in/-vineet/) :blush: . A third-year student of Vellore Institute Of Technology in Computer Science and Engineering. :satellite:
+* I am [Vineet Kumar](https://www.linkedin.com/in/-vineet/). A third-year student of Vellore Institute Of Technology in Computer Science and Engineering.
 
-* I am a Microsoft Student Partner and Tech Head at TAG-CLUB VIT Vellore. :sparkles:.
+* I am a Microsoft Student Partner and Tech Head at TAG-CLUB VIT Vellore.
 
-* I have experience in the field of Linux Kernel Development, Reverse Engineering, Penetration Testing, and Linux System Administration. :file_cabinet: .
+* I have experience in the field of Linux Kernel Development, Reverse Engineering, Penetration Testing, and Linux System Administration.
 
-* I would love to contribute to Open-Source Projects. :bulb:
+* I would love to contribute to Open-Source Projects.
 
 * :magnet: You can checkout my projects from here :fire: - [![projects](https://forthebadge.com/images/badges/check-it-out.svg)](https://github.com/DiptoChakrabarty/DiptoChakrabarty/blob/master/Projects.md)
 
