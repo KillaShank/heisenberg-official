@@ -85,8 +85,8 @@
 </td>
 
 <td align="center" width="20%">
-<span><b><center>SQL</center></b></span> 
-<img height=65px src="https://i0.wp.com/www.complexsql.com/wp-content/uploads/2017/01/sql-logo.jpg?ssl=1"> 
+<span><b><center>Raspberry Pie</center></b></span> 
+<img height=65px src="https://www.kali.org/wp-content/uploads/revslider/last/RASPBERRY_PI_A_PLUS_01.png"> 
 </td>
 </tr>
 
