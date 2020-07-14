@@ -5,7 +5,7 @@
 
 * I am a Microsoft Student Partner and Tech Head at TAG-CLUB VIT Vellore.
 
-* I have experience in the field of Linux Kernel Development, Reverse Engineering, Penetration Testing, and Linux System Administration.
+* I have experience in the field of Linux Kernel Development, DevSecOps, Penetration Testing, and Linux System Administration.
 
 * I would love to contribute to Open-Source Projects.
 
