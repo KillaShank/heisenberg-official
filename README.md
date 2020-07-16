@@ -42,9 +42,9 @@
 <img height=55px src="https://financesonline.com/uploads/2019/08/Microsoft-Visual-Studio-logo1.png"> 
 </td>
 
-<td align="center" width="40%">
+<td align="center" width="20%">
 <span><b><center>Azure</center></b></span> 
-<img height=45px src="https://ktconnections.com/images/easyblog_articles/658/b2ap3_large_microsoft-azure-500x500.png"> 
+<img height=69px src="https://ktconnections.com/images/easyblog_articles/658/b2ap3_large_microsoft-azure-500x500.png"> 
 </td>
 
 <td align="center" width="20%">
