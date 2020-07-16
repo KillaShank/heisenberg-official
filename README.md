@@ -43,8 +43,8 @@
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Python</center></b></span> 
-<img height=45px src="http://www.pngall.com/wp-content/uploads/2016/05/Python-Logo-PNG.png"> 
+<span><b><center>Azure Cloud</center></b></span> 
+<img height=45px src="https://ktconnections.com/images/easyblog_articles/658/b2ap3_large_microsoft-azure-500x500.png"> 
 </td>
 
 <td align="center" width="20%">
